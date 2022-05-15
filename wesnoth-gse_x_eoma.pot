@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: era.cfg:80
+msgid "Files from "
+msgstr ""
+
+#: era.cfg:80
+msgid " that don't match:"
+msgstr ""
+
+#: era.cfg:85
+msgid "WARNING: "
+msgstr ""
+
+#: era.cfg:85
+msgid "'s "
+msgstr ""
+
+#: era.cfg:85
+msgid " files don't match with "
+msgstr ""
+
+#: era.cfg:85
+msgid "'s files. Make sure all players have the same version of the era, otherwise you will likely have OOS!"
+msgstr ""
+
+#: era.cfg:99
+msgid " (missing file)"
+msgstr ""
+
+#: era.cfg:133
+msgid "Great Steppe Era"
+msgstr ""
+
+#: era.cfg:135
+msgid "Era of Magic"
+msgstr ""
+
+#. [chat]
+#. [era]: id=GSE_x_EoMa
+#: era.cfg:157 era.cfg:165 era.cfg:173 era.cfg:181 era.cfg:394
+msgid "GSE + EoMa"
+msgstr ""
+
+#. [multiplayer_side]: id=steppe_Random_EoMa
+#: era.cfg:381
+msgid "Random EoMa"
+msgstr ""
+
+#. [era]: id=GSE_x_EoMa
+#: era.cfg:396
+msgid "Factions from the Great Steppe Era and Era of Magic in one era"
+msgstr ""
+
+#. [era]: id=GSE_x_EoMa_AoH
+#: era.cfg:432
+msgid "GSE + EoMa (Age of Heroes)"
+msgstr ""
+
+#. [era]: id=GSE_x_EoMa_AoH
+#: era.cfg:434
+msgid "Like GSE + EoMa, but leaders are lvl3, and able to recruit lvl2 units alongside lvl1 ones"
+msgstr ""
+
+#. [era]: id=GSE_x_EoMa_RPG
+#: era.cfg:470
+msgid "GSE + EoMa (RPG)"
+msgstr ""
+
+#. [era]: id=GSE_x_EoMa_RPG
+#: era.cfg:472
+msgid "Like GSE + EoMa, but the leaders are lvl1 and there is no recruitment. Good for RPG scenarios"
+msgstr ""
+
